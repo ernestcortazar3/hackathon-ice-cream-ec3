@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Eater&display=swap");
+
+body {
+  background-color: rgb(175, 175, 175);
+  color: crimson;
+}
+
+a:any-link {
+  color: currentColor;
+  text-decoration: none;
+}
+
+div#containerBanner {
+  background-color: rgb(28, 28, 28);
+  color: crimson;
+}
+
+#head {
+  font: 180px "Rubik Wet Paint", sans-serif;
+  text-align: center;
+  margin: 0 auto;
+}
+
+table {
+  table-layout: fixed;
+  width: 500px;
+  border-spacing: 10px;
+  margin: 0 auto;
+  text-align: center;
+  text-size-adjust: fit-content;
+}
+
+#button {
+  font: 18px "Eater", sans-serif;
+  color: rgb(28, 28, 28);
+  padding: 5px;
+  background-image: linear-gradient(rgb(200, 200, 200), rgb(100, 100, 100));
+  border-radius: 20px;
+}
+
+#button:hover {
+  color: rgb(40, 40, 40);
+  background-image: linear-gradient(rgb(255, 255, 255), rgb(100, 100, 100));
+}
