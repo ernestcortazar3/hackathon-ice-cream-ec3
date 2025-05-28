@@ -36,12 +36,12 @@ Documentation & Presentation (15%)
 
 [x] I want to build a header row with some menu buttons on the bottom, centered, with a dark, vampirey theme.
 
-Buttons will navigate the user to the Who What Where When and Why pages.
+<!-- Buttons will navigate the user to the Who What Where When and Why pages.
 
 Who What Where When and Why pages to have buttons:
 [ ]prev
 [ ]home
-[ ]next
+[ ]next -->
 
 11:56pm
 Ready to commit changes to GitHub.
@@ -54,3 +54,14 @@ Lessons learned today:
 -text alignment
 -margin settings
 -table size settings
+
+5/28/25 9:51am
+Just pushed a few hours of work. Problems faced/challenges:
+-ID and class attributes w/ psuedo elements
+-centering images
+-width, margin, borders, etc.
+
+Next to-do:
+[ ]add more content
+[ ]link buttons that can be linked whether add pages or to external sites
+[ ]dark/light mode buttons REVERSED just to make you scream.
