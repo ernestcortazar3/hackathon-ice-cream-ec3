@@ -1,6 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Eater&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Rubik+Pixels&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lacquer&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap");
 
 body {
   background-color: rgb(175, 175, 175);
@@ -18,7 +21,9 @@ div#containerBanner {
 }
 
 #head,
-h2,
+#subhead,
+h3,
+p,
 .scream {
   text-align: center;
   margin: 0 auto;
@@ -29,12 +34,12 @@ h2,
   line-height: 400px;
 }
 
-h2 {
+#subhead {
   font: 40px "Rubik Wet Paint", sans-serif;
 }
 
 .scream {
-  font: 60px "Rubik Wet Paint", sans-serif;
+  font: 80px "Rubik Pixels", sans-serif;
 }
 
 .screamingGoat {
@@ -45,48 +50,72 @@ h2 {
   border-radius: 400px;
 }
 
+h3,
 p,
-h3 {
-  text-align: center;
+.scream {
   text-shadow: 0 0 5px rgb(28, 28, 28, 10);
 }
 
 h3 {
-  font: 40px "Rubik Pixels", sans-serif;
-  margin: 20px 20% 20px 20%;
+  font: 80px "Rubik Pixels", sans-serif;
 }
 
 p {
-  font: 30px "Rubik Pixels", sans-serif;
-  margin: 20px 30% 20px 30%;
+  font: 30px "Rubik Iso", sans-serif;
 }
 
-table.bannerTable,
-table.mainTable {
+p.textPage {
+  font: 32px "DM Serif Text", sans-serif;
+}
+
+h3.index {
+  margin: 20px 10% 20px 10%;
+}
+
+p.index {
+  margin: 20px 20% 20px 20%;
+}
+
+#bannerTable,
+#mainTable {
   table-layout: fixed;
   border-spacing: 20px;
   margin: 0 auto;
   text-align: center;
 }
 
-table.bannerTable td {
-  width: 100%;
+#bannerTable {
+  padding: 0px;
 }
 
-table.mainTable {
-  width: 100%;
+#mainTable {
+  width: 90%;
 }
 
-#button {
-  font: 30px "Eater", sans-serif;
+.button {
+  font: 45px "Lacquer", sans-serif;
   color: rgb(28, 28, 28);
-  padding: none;
   background-image: linear-gradient(rgb(200, 200, 200), rgb(100, 100, 100));
   border-radius: 20px;
 }
 
-#button.linkButton:hover {
+td.tableButton {
+  font-size: 40px;
+  padding: 3px;
+}
+
+.linkButton:hover {
   color: rgb(40, 40, 40);
   background-image: linear-gradient(rgb(255, 255, 255), rgb(100, 100, 100));
   border-radius: 20px;
+}
+
+.button > span.screamLevel,
+a > span.screamLevel {
+  font: 20px "Eater", sans-serif;
+}
+
+div.screamPage {
+  font: 32px "Eater", sans-serif;
+  color: rgb(28, 28, 28);
 }
