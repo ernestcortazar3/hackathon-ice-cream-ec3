@@ -42,3 +42,15 @@ Who What Where When and Why pages to have buttons:
 [ ]prev
 [ ]home
 [ ]next
+
+11:56pm
+Ready to commit changes to GitHub.
+Lessons learned today:
+-changes must be commited or will be lost when project is closed.
+-practical application of the following:
+-html elements
+-css selectors, psuedoselectors and specificity
+-color attributes: custom, currentColor
+-text alignment
+-margin settings
+-table size settings

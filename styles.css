@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Eater&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Pixels&display=swap");
 
 body {
   background-color: rgb(175, 175, 175);
@@ -16,30 +17,76 @@ div#containerBanner {
   color: crimson;
 }
 
-#head {
-  font: 180px "Rubik Wet Paint", sans-serif;
+#head,
+h2,
+.scream {
   text-align: center;
   margin: 0 auto;
 }
 
-table {
-  table-layout: fixed;
+#head {
+  font: 180px "Rubik Wet Paint", sans-serif;
+  line-height: 400px;
+}
+
+h2 {
+  font: 40px "Rubik Wet Paint", sans-serif;
+}
+
+.scream {
+  font: 60px "Rubik Wet Paint", sans-serif;
+}
+
+.screamingGoat {
+  margin: 20px auto;
   width: 500px;
-  border-spacing: 10px;
+  display: block;
+  border: solid 1px rgb(28, 28, 28);
+  border-radius: 400px;
+}
+
+p,
+h3 {
+  text-align: center;
+  text-shadow: 0 0 5px rgb(28, 28, 28, 10);
+}
+
+h3 {
+  font: 40px "Rubik Pixels", sans-serif;
+  margin: 20px 20% 20px 20%;
+}
+
+p {
+  font: 30px "Rubik Pixels", sans-serif;
+  margin: 20px 30% 20px 30%;
+}
+
+table.bannerTable,
+table.mainTable {
+  table-layout: fixed;
+  border-spacing: 20px;
   margin: 0 auto;
   text-align: center;
-  text-size-adjust: fit-content;
+}
+
+table.bannerTable td {
+  width: 100%;
+}
+
+table.mainTable {
+  width: 100%;
 }
 
 #button {
-  font: 18px "Eater", sans-serif;
+  font: 30px "Eater", sans-serif;
   color: rgb(28, 28, 28);
-  padding: 5px;
+  padding: none;
   background-image: linear-gradient(rgb(200, 200, 200), rgb(100, 100, 100));
   border-radius: 20px;
 }
 
-#button:hover {
+#button.linkButton:hover {
   color: rgb(40, 40, 40);
   background-image: linear-gradient(rgb(255, 255, 255), rgb(100, 100, 100));
+  border-radius: 20px;
 }
