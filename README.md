@@ -88,3 +88,7 @@ double check to make sure site functions as intended.
 2:25pm
 
 Finally got styling where I want it. and plan for how to attack the functions of the linked pages. Pushing now.
+
+2:48pm
+
+Gathered images for pages. Created a page for every button on the home page. Created blank template of the page to use.
