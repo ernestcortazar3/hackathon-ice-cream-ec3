@@ -1,18 +1,23 @@
 @import url("https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Eater&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Lacquer&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Jolly+Lodger&display=swap");
+
+/* Background */
 
 body {
   background-color: rgb(77, 77, 77);
   color: crimson;
 }
 
+/* Links */
+
 a:any-link {
   color: currentColor;
   text-decoration: none;
 }
+
+/* Banner */
 
 div#containerBanner {
   background-color: rgb(28, 28, 28);
@@ -43,17 +48,13 @@ p,
 
 #head,
 #subhead,
-.scream {
+.scream,
+h3 {
   text-shadow: 2px 2px 5px #fff;
 }
 
-.screamingGoat {
-  margin: 20px auto;
-  border: solid 1px rgb(28, 28, 28);
-  border-radius: 400px;
-}
+/* Headings and Paragraphs */
 
-h3,
 p {
   text-shadow: 0 0 5px rgb(28, 28, 28, 10);
 }
@@ -66,10 +67,6 @@ p {
   font: 30px "Jolly Lodger", sans-serif;
 }
 
-p.textPage {
-  font: 32px "DM Serif Text", sans-serif;
-}
-
 h3.index {
   margin: 20px 10% 20px 10%;
 }
@@ -77,6 +74,18 @@ h3.index {
 p.index {
   margin: 20px 20% 20px 20%;
 }
+
+p.pageDescription {
+  margin: 0 25%;
+}
+
+p.textPage {
+  margin: 20px 10% 20px 10%;
+  columns: 2;
+  text-align: center;
+}
+
+/* Tables and Buttons */
 
 #bannerTable,
 #mainTable {
@@ -112,6 +121,8 @@ td.tableButton {
   border-radius: 20px;
 }
 
+/* Scream Level */
+
 .button > span.screamLevel,
 a > span.screamLevel {
   font: 20px "Eater", sans-serif;
@@ -121,9 +132,17 @@ div.screamPage {
   font: 32px "Eater", sans-serif;
 }
 
+/* images */
+
 .imageCentered {
   display: block;
   margin: 0 auto;
+}
+
+.screamingGoat {
+  margin: 20px auto;
+  border: solid 1px rgb(28, 28, 28);
+  border-radius: 400px;
 }
 
 .crumbsImage {

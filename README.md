@@ -84,3 +84,7 @@ fix links between all pages.
 create content for 3x pages.
 
 double check to make sure site functions as intended.
+
+2:25pm
+
+Finally got styling where I want it. and plan for how to attack the functions of the linked pages. Pushing now.
