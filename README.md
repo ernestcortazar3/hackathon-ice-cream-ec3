@@ -43,6 +43,8 @@ Who What Where When and Why pages to have buttons:
 [ ]home
 [ ]next -->
 
+Got rid of those buttons.
+
 11:56pm
 Ready to commit changes to GitHub.
 Lessons learned today:
@@ -65,3 +67,20 @@ Next to-do:
 [ ]add more content
 [ ]link buttons that can be linked whether add pages or to external sites
 [ ]dark/light mode buttons REVERSED just to make you scream.
+
+5/29/25
+1100a
+
+getting back into the project.
+creating more content for additional pages. I've decided to only link a select few to make the hover/link feature more appealing.
+
+Added another page. Revised fonts. Edit background color.
+
+Next to-do:
+choose 3x more pages to link.
+create 3x more pages and link.
+fix links between all pages.
+
+create content for 3x pages.
+
+double check to make sure site functions as intended.
