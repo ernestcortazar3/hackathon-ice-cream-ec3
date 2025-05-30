@@ -24,15 +24,15 @@ Technical Implementation (30%)
 [ ]Performance optimization
 [ ]JavaScript functionality (where applicable)
 User Experience (20%)
-[ ]Intuitive navigation
+[x]Intuitive navigation
 [ ]Engaging interactions
 [ ]Accessibility considerations
 [ ]Overall experience quality
 Documentation & Presentation (15%)
-[ ]Code comments and documentation
+[x]Code comments and documentation
 [ ]Design rationale explanation
-[ ]Presentation quality
-[ ]Process documentation
+[x]Presentation quality
+[x]Process documentation
 
 [x] I want to build a header row with some menu buttons on the bottom, centered, with a dark, vampirey theme.
 
@@ -64,9 +64,9 @@ Just pushed a few hours of work. Problems faced/challenges:
 -width, margin, borders, etc.
 
 Next to-do:
-[ ]add more content
-[ ]link buttons that can be linked whether add pages or to external sites
-[ ]dark/light mode buttons REVERSED just to make you scream.
+[x]add more content
+[x]link buttons that can be linked whether add pages or to external sites
+[x]dark/light mode buttons REVERSED just to make you scream.
 
 5/29/25
 1100a
@@ -107,4 +107,7 @@ Next I'm going to attempt to play around with a dark/light themed toggle.
 YES pushing now.
 
 1:35pm
-Created light theme. Built pages for all the light theme pages. Left off after 03/15 built.
+Created light theme. Built pages for all the light theme pages. Left off after pages 03of15 built.
+
+2:06pm
+DONE. Built and connected all Light Themed pages, respectively. Created and linked a 404 Error page. Site works, looks great, and I'm actually very happy with the overall product. The process taught me alot and really tested my knowledge of basic html and css concepts.
