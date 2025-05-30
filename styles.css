@@ -17,7 +17,7 @@ a:any-link {
   text-decoration: none;
 }
 
-/* Banner */
+/* Headings and Larger fonts */
 
 div#containerBanner {
   background-color: rgb(28, 28, 28);
@@ -28,18 +28,23 @@ div#containerBanner {
 #subhead,
 h3,
 p,
-.scream {
+.scream,
+.screamPage {
   text-align: center;
   margin: 0 auto;
 }
 
-#head {
+h1#head {
   font: 180px "Rubik Wet Paint", sans-serif;
   line-height: 400px;
 }
 
-#subhead {
+h2#subhead {
   font: 40px "Rubik Wet Paint", sans-serif;
+}
+
+h3 {
+  font: 80px "Jolly Lodger", sans-serif;
 }
 
 .scream {
@@ -49,11 +54,12 @@ p,
 #head,
 #subhead,
 .scream,
+.screamPage,
 h3 {
   text-shadow: 2px 2px 5px #fff;
 }
 
-/* Headings and Paragraphs */
+/* Smaller Headings and Paragraphs */
 
 p {
   text-shadow: 0 0 5px rgb(28, 28, 28, 10);
@@ -76,7 +82,7 @@ p.index {
 }
 
 p.pageDescription {
-  margin: 0 25%;
+  margin: 0 10%;
 }
 
 p.textPage {
@@ -145,7 +151,7 @@ div.screamPage {
   border-radius: 400px;
 }
 
-.crumbsImage {
+.resized {
   width: 500px;
   height: auto;
 }

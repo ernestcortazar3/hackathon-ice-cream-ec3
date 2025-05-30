@@ -91,4 +91,8 @@ Finally got styling where I want it. and plan for how to attack the functions of
 
 2:48pm
 
-Gathered images for pages. Created a page for every button on the home page. Created blank template of the page to use.
+Gathered images for pages. Created images folder. Created blank template of the page to use.
+
+6:47pm
+
+Worked out 8 pages, all functional. Found some styles shortcuts to simplify the styles sheet. Really impressed with the suggestions the VSCode AI is coming up with for my page descriptions! I never thought these would really be ice cream flavors...
