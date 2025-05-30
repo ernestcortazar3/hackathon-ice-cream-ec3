@@ -96,3 +96,12 @@ Gathered images for pages. Created images folder. Created blank template of the 
 6:47pm
 
 Worked out 8 pages, all functional. Found some styles shortcuts to simplify the styles sheet. Really impressed with the suggestions the VSCode AI is coming up with for my page descriptions! I never thought these would really be ice cream flavors...
+
+5/30/25
+11:04am
+
+Finished! got everything linked, all pages fitted with an ice cream flavor description and image.
+
+Next I'm going to attempt to play around with a dark/light themed toggle.
+
+YES pushing now.
