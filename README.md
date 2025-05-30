@@ -105,3 +105,6 @@ Finished! got everything linked, all pages fitted with an ice cream flavor descr
 Next I'm going to attempt to play around with a dark/light themed toggle.
 
 YES pushing now.
+
+1:35pm
+Created light theme. Built pages for all the light theme pages. Left off after 03/15 built.

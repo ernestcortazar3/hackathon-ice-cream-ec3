@@ -6,8 +6,8 @@
 /* Background */
 
 body {
-  background-color: rgb(77, 77, 77);
-  color: crimson;
+  background-color: rgb(222, 222, 222);
+  color: rgb(49, 49, 49);
 }
 
 /* Links */
@@ -20,8 +20,8 @@ a:any-link {
 /* Headings and Larger fonts */
 
 div#containerBanner {
-  background-color: rgb(28, 28, 28);
-  color: crimson;
+  background-color: crimson;
+  color: rgb(49, 49, 49);
 }
 
 #head,
@@ -52,14 +52,17 @@ h3 {
 }
 
 #head,
-#subhead,
-.scream,
-.screamPage,
-h3 {
+#subhead {
   text-shadow: 2px 2px 5px #fff;
 }
 
 /* Smaller Headings and Paragraphs */
+
+.scream,
+.screamPage,
+h3 {
+  text-shadow: 2px 2px 5px crimson;
+}
 
 p {
   text-shadow: 0 0 5px rgb(28, 28, 28, 10);
@@ -111,8 +114,8 @@ p.textPage {
 
 .button {
   font: 45px "Lacquer", sans-serif;
-  color: rgb(28, 28, 28);
-  background-image: linear-gradient(rgb(200, 200, 200), rgb(100, 100, 100));
+  color: #fff;
+  background-image: linear-gradient(rgb(99, 99, 99), rgb(25, 25, 25));
   border-radius: 20px;
 }
 
@@ -130,7 +133,7 @@ td.tableButton {
   font-size: 40px;
   padding: 5px;
   border-radius: 40px;
-}}
+}
 
 /* Scream Level */
 
