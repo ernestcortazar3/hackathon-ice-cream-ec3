@@ -33,11 +33,15 @@ Languages Used:
 
 ---
 
-The following section describes the
+# Credits
 
-# design process and status updates
+Devslopes HTML and CSS curriculum for html/css languages.
+ChatGPT / VSC AI for the horrific flavor descriptions.
+Scream Level by ChatGPT.
+Images are all probably violating copy-rights as they were pulled from GoogleImage search.
+Goat scream downloaded from SoundCloud, undisclosed user/source.
 
-during site build.
+# Design Process and Status Updates
 
 5/27/25
 11:01pm
@@ -205,6 +209,7 @@ Basic additions:
 - prev / next buttons to the flavor pages
 - Hide the audio player into the goat image.
 - ToolTips
+- Proper credits/sourcing
 
 Advanced additions:
 
